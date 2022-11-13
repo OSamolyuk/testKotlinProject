@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">KotlinTestProject</string>
+    <string name="app_name">TestKotlinProject</string>
+
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="id">id</string>
+    <string name="data">data</string>
+
+    <string name="id_is_empty">Id should not be empty!</string>
+    <string name="no_matching_id">No matching id found!</string>
+    <string name="data_saved">Data was saved successfully!</string>
+    <string name="data_loaded">Data was loaded successfully!</string>
 </resources>
